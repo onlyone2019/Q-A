@@ -1,6 +1,5 @@
 # github图片显示不出来
 
-比如这样：
 ![](https://github.com/onlyone2019/Q-A/blob/master/pictures/github_picture.png)
 
 **原因：**
